@@ -1,0 +1,33 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1574923345390'); /* IE9 */
+  src: url('iconfont.eot?t=1574923345390#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAARQAAsAAAAACQgAAAQBAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDKgqFIIQrATYCJAMUCwwABCAFhG0HVRu8B8gOJcGQwADgDQBAPHy/9nru0t95G2TFqMISVaK5aOsrHCtVYTq+too0+v59m/aQGHWju14Th4r+kg+l0SFkVeVUnfu63VTO+ePe6f+/Ou8Cmc++5TjWpjmpTV2AceddQGNsW55AWwNLzFtkF3FELXo9gWRCHOKkoq4N9AqoWyBeyhICfUqtqCGHWlaVjC0g3oJGna0n7wBv/PvHPymhB5kyB9T38rHcCEW/Sj92Uctcy/S4CHCGM0KaRI5FoCCel5rvUaFvESUZkbRdoMbGjKECbR+7XC4e6+RuRVzzf3iETK4gKkCJbeCA8xf8KqU4wa82nIxfnTg5v7q4D2WTEiQMAV8A/OdIk31bSpVqyMfdndZR3rSroMOIl9bQ3jQ6xlzYG8DdfjpO7htlPDeMh1JHn++07g0i2kgvanlg265dgbyDbPhwV+fG0/uX7TvFbLiw/GJ7/ItdeVxhe1t+e6BbEM9wc0+PhdD7Rqe5nxkP1RycmIncaQ8eeLJu0p1C7qTHXHT6PEDSeD06zfPMOEG4EQyx/OJM4azsCZ2PpQ2uwS34AfCKDtG1cONYyPwWOjjhZvEkvXjwjHZgAoF78I2v//FLbHcWFy+OLzJMNqlhELbhNtmRWfpyJDWJHJ6YNOnRs3kz98FYXV1ZKfrwu3cfdeW5x9wMuhnj7jt32jyfXYm686bNXUjdeSbfGZWHnM0kqUgLr/b21NTAly/HUhmeST32zK/+dP8Z/+zL0laHPrywe9nuwkIIACM/A1boEvwa837nOcNSr8VcSw1zxo5GvwRd4cEX/ati0mM2YfQbFf76rf7Ofei/wivGa19h7+9eSPm0e+bCCyuQ8v5QrpC/wMcsLYKir67Jp5OuMOV5IVfEwTzImx+Q33CUBfIr6cr6gtzzg3zH6dqpzn6vvP/6hgb4ptnczKoL3dlvmQPm/A4cYFFh8pCmLPR8ytbjSxd03N5kScJvEKLHu2Gk/eBEQq0/hkzLOORqk2hBWoRSYxMqtX1IFlRObvRSUKIwAPNWMxC6XIVMh8+Q63IXLUhvoTTgO1S6goLkKvzmbEyHzJQqGKnYyA7OZ2XBZhWJTmWC5BYsOc1ISfJ8Ko8Vh+xkkxOSssFKbMXKEAMcc6QUVRVZUbFZ2ApmM2w221i7YhvGgpowpKr2nMREsexCCYLNAoxjCgxRYUasQfOxZAIbK9Etr2Jyt2+BSZzMEKWmoMHKwxQOcu2sZAmSAGil2AoquJTGDnNIUqhUIt9JpLCxYFWwRsyMfTYse3mrYZhAlWCog8cuRyJXSoSKE6aXWu5xBSRozjJIgiJoQkNooXVjtyMFm2nZm8voVW+z4vkWZEUStmCrqrciJkpAihEAAAAA') format('woff2'),
+  url('iconfont.woff?t=1574923345390') format('woff'),
+  url('iconfont.ttf?t=1574923345390') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1574923345390#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-apparel:before {
+  content: "\e743";
+}
+
+.icon-ipad:before {
+  content: "\e754";
+}
+
+.icon-Moneymanagement:before {
+  content: "\e759";
+}
+
+.icon-namecard:before {
+  content: "\e75a";
+}
+

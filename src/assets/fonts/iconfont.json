@@ -1,0 +1,37 @@
+{
+  "id": "1534984",
+  "name": "myblog",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11487980",
+      "name": "apparel",
+      "font_class": "apparel",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "11488062",
+      "name": "ipad",
+      "font_class": "ipad",
+      "unicode": "e754",
+      "unicode_decimal": 59220
+    },
+    {
+      "icon_id": "11488078",
+      "name": "Money management",
+      "font_class": "Moneymanagement",
+      "unicode": "e759",
+      "unicode_decimal": 59225
+    },
+    {
+      "icon_id": "11488079",
+      "name": "namecard",
+      "font_class": "namecard",
+      "unicode": "e75a",
+      "unicode_decimal": 59226
+    }
+  ]
+}
