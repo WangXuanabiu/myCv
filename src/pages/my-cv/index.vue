@@ -30,6 +30,12 @@
 		</div>
 		<div class="info-items project-experience">
 				<h1>项目经验</h1>
+				<div class="project-experience-content">
+					<div class="project-experience-item" v-for="(item, index) in perojectInfos" :key="index">
+						
+					</div>
+					
+				</div>
 		</div>
 	</div>
 </template>
@@ -56,7 +62,8 @@ export default {
 				icon: '&#xe75a',
 				subTitle: '联系方式',
 				decs: 'email：291738158@qq.com'
-			}]
+			}],
+			perojectInfos:[{},{},{},{},{},{},{},{}]
 		}
 	},
 	methods: {
@@ -166,6 +173,28 @@ export default {
 			}
 			&-decs{
 				width: 200px;
+			}
+		}
+	}
+	.project-experience {
+		&-content {
+			margin: 0 auto;
+			display: flex;
+			width: 1000px;
+			flex-wrap: wrap;
+			justify-content: center;
+		}
+		&-item {
+			margin: 20px;
+			width: 200px;
+			height: 200px;
+			background-color: gray;
+			transition: all .3s linear; 
+			&:hover {
+				width: 240px;
+				height: 240px;
+				margin: 0;
+				transition: all .3s linear; 
 			}
 		}
 	}
