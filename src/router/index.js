@@ -6,13 +6,16 @@ let indexRoutes = {
 	mode: 'history',
 	routes: [{
 		path: '/',
-		redirect: '/my-cv'
+		redirect: '/ky-test'
 	},{
 		path: '/animation-test',
 		component: () => import("@/pages/animation-test")
 	},{
 		path: '/my-cv',
 		component: () => import("@/pages/my-cv")
+	},{
+		path: '/ky-test',
+		component: () => import("@/pages/ky-test")
 	}]
 }
 

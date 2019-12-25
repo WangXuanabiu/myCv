@@ -122,7 +122,7 @@ export default {
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
-		aligin-items: center;
+		align-items: center;
 		color: #FFF;
 		&-name {
 			font-size: 70px;
